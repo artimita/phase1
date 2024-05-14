@@ -1,0 +1,9 @@
+main {
+  background-color: navy;
+  height: 550px;
+}
+
+section:first-child {
+  background-color: rgb(222, 231, 93);
+  height: 80px;
+}

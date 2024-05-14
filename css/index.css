@@ -1,0 +1,18 @@
+h1 {
+  background-color: aqua;
+  display: inline;
+}
+
+.premier_lien {
+  background-color: #273979;
+  color: aliceblue;
+}
+
+a {
+  background-color: blueviolet;
+  display: block;
+}
+
+p.parag_inline {
+  display: inline;
+}
